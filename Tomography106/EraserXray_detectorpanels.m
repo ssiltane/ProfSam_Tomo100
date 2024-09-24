@@ -27,7 +27,7 @@ imagesc(im_plot)
 colormap gray
 axis image
 axis off
-imwrite(im_plot,'../images/Eraser4_inverted.png')
+%imwrite(im_plot,'../images/Eraser4_inverted.png')
 
 
 % Show extremely filtered plot of inverted image
@@ -45,6 +45,6 @@ imagesc(im_plot)
 colormap gray
 axis image
 axis off
-imwrite(im_plot,'../images/Eraser4_inverted_optimized.png')
+%imwrite(im_plot,'../images/Eraser4_inverted_optimized.png')
 
 
